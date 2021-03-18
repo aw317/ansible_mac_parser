@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ceda16d5-dfe2-4243-bc26-ca8b1ae9ad32" name="Default Changelist" comment="" />
+    <list default="true" id="ceda16d5-dfe2-4243-bc26-ca8b1ae9ad32" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,16 +48,31 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/roles/get_company_name/tasks/main.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="241">
+                <caret line="30" selection-start-line="30" selection-end-line="30" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -66,15 +83,17 @@
         <option value="$PROJECT_DIR$/inventories/local/group_vars/company_searcher/vars" />
         <option value="$PROJECT_DIR$/gey_company_name.yml" />
         <option value="$PROJECT_DIR$/roles/get_company_name/tasks/main.yml" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="17" />
     <option name="y" value="61" />
     <option name="width" value="1314" />
     <option name="height" value="676" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -87,50 +106,6 @@
             <path>
               <item name="ansible_macaddressio_query" type="b2602c69:ProjectViewProjectNode" />
               <item name="ansible_macaddressio_query" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ansible_macaddressio_query" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ansible_macaddressio_query" type="462c0819:PsiDirectoryNode" />
-              <item name="inventories" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ansible_macaddressio_query" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ansible_macaddressio_query" type="462c0819:PsiDirectoryNode" />
-              <item name="inventories" type="462c0819:PsiDirectoryNode" />
-              <item name="local" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ansible_macaddressio_query" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ansible_macaddressio_query" type="462c0819:PsiDirectoryNode" />
-              <item name="inventories" type="462c0819:PsiDirectoryNode" />
-              <item name="local" type="462c0819:PsiDirectoryNode" />
-              <item name="group_vars" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ansible_macaddressio_query" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ansible_macaddressio_query" type="462c0819:PsiDirectoryNode" />
-              <item name="inventories" type="462c0819:PsiDirectoryNode" />
-              <item name="local" type="462c0819:PsiDirectoryNode" />
-              <item name="group_vars" type="462c0819:PsiDirectoryNode" />
-              <item name="company_searcher" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ansible_macaddressio_query" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ansible_macaddressio_query" type="462c0819:PsiDirectoryNode" />
-              <item name="roles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ansible_macaddressio_query" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ansible_macaddressio_query" type="462c0819:PsiDirectoryNode" />
-              <item name="roles" type="462c0819:PsiDirectoryNode" />
-              <item name="get_company_name" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ansible_macaddressio_query" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ansible_macaddressio_query" type="462c0819:PsiDirectoryNode" />
-              <item name="roles" type="462c0819:PsiDirectoryNode" />
-              <item name="get_company_name" type="462c0819:PsiDirectoryNode" />
-              <item name="tasks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -180,7 +155,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.33052278" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -202,20 +177,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inventories/local/hosts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gey_company_name.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/inventories/local/group_vars/company_searcher/vault">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -230,10 +191,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/inventories/local/hosts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/roles/get_company_name/tasks/main.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gey_company_name.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="241">
+            <caret line="30" selection-start-line="30" selection-end-line="30" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

@@ -25,3 +25,8 @@ ok: [localhost] => {
 }
 ```
 where "Cumulus Networks, Inc" is returned vendor 
+
+### Vault pass
+pass is: 1234
+
+In prod environment it should be stored in Hashicorp vault service
