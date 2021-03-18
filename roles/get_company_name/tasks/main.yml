@@ -1,0 +1,11 @@
+- name: Get company name based on mac_address
+  uri:
+    url: "{{ mac_api_address }}?output={{ mac_api_out_fmt }}&search={{ mac_address }}"
+    method: GET
+    return_content: yes
+    headers:
+      X-Authentication-Token: "{{ token }}"
+  register: response
+  delay: 3
+
+- debug: msg="{{ response.content }}"

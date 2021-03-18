@@ -1,0 +1,2 @@
+[company_searcher]
+localhost ansible_connection=local

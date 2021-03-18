@@ -1,0 +1,6 @@
+---
+
+- hosts: company_searcher
+  roles:
+    - role: get_company_name
+

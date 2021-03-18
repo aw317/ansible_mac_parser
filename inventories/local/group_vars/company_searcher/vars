@@ -1,0 +1,3 @@
+mac_api_address: https://api.macaddress.io/v1
+mac_api_out_fmt: vendor
+token: "{{ ansible_vault_token }}"
